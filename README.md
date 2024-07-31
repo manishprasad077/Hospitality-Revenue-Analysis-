@@ -4,6 +4,8 @@ Dashboard of Hospitality Revenue Analysis
 
 <img width="650" alt="Hospitality Revenue Analysis" src="https://github.com/user-attachments/assets/cb452716-745a-4278-b62f-b87cfcb80086">
 
+I developed a Power BI dashboard for analyzing hospitality revenue, working with five CSV files containing various dimensions and facts such as dates, hotel properties, room types, aggregated bookings, and detailed bookings. I performed ETL processes, including data extraction, transformation, and loading, to clean and standardize the data, remove noise, and merge datasets into a unified model. The interactive dashboard I created provided insights into revenue trends, booking patterns, performance metrics, and customer feedback, enabling stakeholders to identify peak booking periods, evaluate hotel and room performance, and analyze customer preferences and ratings. This project demonstrated my proficiency in data analytics, ETL processes, and creating actionable insights using Power BI.
+
 
 This file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
 1. dim_date
