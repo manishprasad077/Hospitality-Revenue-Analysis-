@@ -1,5 +1,7 @@
 # Hospitality-Revenue-Analysis
 
+<img width="650" alt="Hospitality Revenue Analysis" src="https://github.com/user-attachments/assets/cb452716-745a-4278-b62f-b87cfcb80086">
+
 
 This file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
 1. dim_date
